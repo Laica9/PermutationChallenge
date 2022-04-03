@@ -7,7 +7,7 @@ import java.util.Comparator;
 import java.util.List;
 
 /**
- * @author Ioanna Pashalidi Kozelj
+ * @author Ioanna PK
  */
 public class Solution {
     /**
